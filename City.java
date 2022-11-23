@@ -1,5 +1,3 @@
-package alest3;
-
 public class City {
 
     final double[] coordinates;
